@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador BasketBall  App</string>
+    <string name="lblTeamALabel">Equipo A</string>
+    <string name="btn3PLabelA">+3 Puntos</string>
+    <string name="btn2PLabelA">+2 Puntos</string>
+    <string name="btnFTLabelA">Tiro Libre</string>
+    <string name="lblTeamBLabel">Equipo B</string>
+    <string name="btn3PLabelB">+3 Puntos</string>
+    <string name="btn2PLabelB">+2 Puntos</string>
+    <string name="btnFTLabelB">Tiro Libre</string>
+    <string name="btnResetLabel">Reiniciar</string>
+</resources>
